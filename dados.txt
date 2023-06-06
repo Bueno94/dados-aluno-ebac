@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Rogerio     
+-Profissão: Tec engenharia  
+-Cidade: Osasco
+-O que faz nas horas vaga: Jogar League of Legends 
+-Feedback sobre o curso Qualidade de Software: Otimo curso
+-Feedback sobre a plataforma de estudo da EBAC: Plataforma bem intuitiva
 
 Obrigado!!!
 
